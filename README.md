@@ -1,1 +1,1 @@
-> *"adapt or die"*
+> *"nope your too late i already died"*
