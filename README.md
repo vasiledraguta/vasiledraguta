@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./car.gif" alt="Car animation" />
-</p>
-
 > _"pressing buttons to stay alive"_
 
 <p align="center">
